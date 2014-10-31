@@ -1,0 +1,25 @@
+{
+  "name": "geotoGraph",
+  "version": "0.0.1",
+  "description": "quick script to dump geonames' allcountries.txt to a graph",
+  "main": "app.js",
+  "dependencies": {
+    "mysql": "^2.5.2",
+    "request": "^2.47.0",
+    "split": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aggied/geotoGraph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aggied/geotoGraph/issues"
+  },
+  "homepage": "https://github.com/aggied/geotoGraph"
+}
